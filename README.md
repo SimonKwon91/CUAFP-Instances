@@ -1,6 +1,6 @@
 # CUAFP instances and results
 
-Data accompanying the paper *"Strategic Coopetition in Hyperconnected Urban Parcel Logistics Networks: A Partition Function Form Game under Demand Externalities"* (Transportation Research Part B, under review).
+Data accompanying the paper *"Strategic Coopetition in Hyperconnected Urban Parcel Logistics Networks: A Partition Function Form Game under Demand Externalities"*.
 
 The repository contains the data of all seven instances and, for every experiment reported in the paper, the coalition worths v(S, Π) and the game outcomes. No code is included: the models are fully specified in the paper (demand allocation, Section 4.1; service network design (SND) model, Section 4.3; recursive core and recursive nucleolus, Section 3.3), and all parameter values are listed below and in Appendix A of the paper. No confidential operator data are included.
 
