@@ -1,0 +1,10 @@
+commodity_id,origin,dest,Volume,reason
+407,818,819,203.0,outside_option
+659,12,21,86.0,outside_option
+638,7,16,86.0,outside_option
+739,0,5,83.0,outside_option
+721,6,13,36.0,outside_option
+736,0,7,29.0,outside_option
+645,4,28,16.0,outside_option
+718,5,21,5.0,outside_option
+678,2,51,3.0,outside_option
